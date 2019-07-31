@@ -1,0 +1,11 @@
+Estatística
+
+	P-Value
+Imagine que vc tem uma moeda e a joga, temos 50% de chance de ter cara ou coroa. Podemos calcular a probabilidade de ter duas caras em eventos sucessivos.
+
+pvalue: a probabilidade de seu dado ter sido criado randomicamente. Se algum outro dado igual ao seu foi criado randomicamente, e se exite um dado mais raro que o seu.
+O P-value é a soma dessas probabilidades.
+	html
+Língua de marcação, não de programação. <tag>xxx</Log>  É estático, não pode implementar lógica.
+	FDR
+Razão de descoberta de pontos positivos. Usado para limitar falsos negativos.
